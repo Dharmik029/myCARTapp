@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myCARTapp/static/css/main.97c5dda7.css",
+    "main.js": "/myCARTapp/static/js/main.c8854951.js",
+    "static/media/Uk online.com (1).png": "/myCARTapp/static/media/Uk online.com (1).83efcdefd8e05051ec0f.png",
+    "index.html": "/myCARTapp/index.html",
+    "main.97c5dda7.css.map": "/myCARTapp/static/css/main.97c5dda7.css.map",
+    "main.c8854951.js.map": "/myCARTapp/static/js/main.c8854951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c5dda7.css",
+    "static/js/main.c8854951.js"
+  ]
+}
